@@ -4,9 +4,6 @@
 
 Built for **EGR 3328 – Embedded Systems**, School of Science and Engineering, Al Akhawayn University in Ifrane (Spring 2026).
 
-**Team:** Imane Boughamza & Ali Bouhaltit
-**Supervisor:** Dr. Ahmad Fiaz
-
 ---
 
 ## 📽️ Demo Videos
