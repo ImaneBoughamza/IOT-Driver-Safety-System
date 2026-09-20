@@ -82,21 +82,6 @@ Two independent circuits, connected only over Wi-Fi:
 
 ---
 
-## 📦 Bill of Materials
-
-| Component | Qty | Price | Source |
-|---|---|---|---|
-| Particle Photon | 1 | Lab-provided | AUI Lab |
-| NEO-6M GPS Module | 1 | 160 MAD | micro-planet.ma |
-| IR Obstacle Sensor | 1 | 25 MAD | micro-planet.ma |
-| ESP32-CAM Module | 1 | 150 MAD | micro-planet.ma |
-| FTDI USB-to-Serial Adapter | 1 | 40 MAD | micro-planet.ma |
-| Passive Buzzer, LEDs, resistors | — | Lab-provided | AUI Lab |
-
-**Total out-of-pocket cost: ~375 MAD** (~$38 USD)
-
----
-
 ## 🚀 Getting Started
 
 ### 1. Flash the Photon firmware
